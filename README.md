@@ -1,8 +1,8 @@
 - 👋 Hi, I’m henzo
 - 👀 I’m interested in ... programação
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... java script
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... java cript
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ... gmail
 - 😄 Pronouns: ... disel turb
 - ⚡ Fun fact: ... esqueço as coisas
 
